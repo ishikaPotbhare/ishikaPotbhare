@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ishikaPotbhare
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
+- 🌱 Passionate about python
 - 💞️ I’m looking to collaborate on real time projects
 
 <!---
